@@ -8,6 +8,7 @@ Investigating a Relational Database
 Example SQL code to answer business questions relating to Sakila DVD Rental database.
 
 ### Sources
+Find Entity Relationship Diagrams and databases here:
 https://www.postgresqltutorial.com/postgresql-sample-database/
 
 
